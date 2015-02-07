@@ -1,0 +1,106 @@
+body{
+   padding:0 ;
+   margin:0 ;
+   text-align:center ;
+}
+
+.t{
+    height:10px ;
+    width:100% ;
+    overflow:hidden ;
+    float:left ;
+    clear:both ;
+}
+
+#container {
+    width:960px ;
+    margin: 0 auto ;
+    text-align:left ;
+}
+
+#header {
+    width:100% ;
+    float:left ;
+}
+
+#logo {
+    width:180px ;
+    height:100px ;
+    background:#f0f ;
+    float:left ;
+}
+
+#banner{
+    width:600px ;
+    height:100px ;
+    background:yellow;
+    margin-left:10px ;
+    float:left ;
+}
+
+#tool{
+    width:160px ;
+    height:100px ;
+    background:#af0 ;
+    float:right ;
+}
+
+#nav{
+    width:100% ;
+    height:30px ;
+    background:#abf ;
+    float:left ;
+}
+
+#content {
+    width:100% ;
+    float:left ;
+}
+
+.main{
+    float:left ;
+    width:750px ;
+}
+
+.main .left {
+    float:left ;
+    width:300px ;
+    height:200px ;
+    background:#ccc ;
+}
+
+.main .right {
+    float:right ;
+    width:440px ;
+    height:200px ;
+    background:#ccc ;
+}
+
+
+.barside{
+    float:right ;
+    width:200px ;
+    background:yellow ;
+}
+
+.barside_h1{
+    height:410px ;
+}
+
+.barside_h2{
+    height:620px ;
+}
+.ad{
+    float:left;
+    height:100px ;
+    width:100% ;
+    clear:both ;
+    background:red ;
+}
+
+#footer{
+    width:100% ;
+    height:100px ;
+    background:blue ;
+    float:left ;
+}
